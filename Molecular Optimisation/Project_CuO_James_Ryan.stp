@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+  <Version>25.1</Version>
+  <Reference>{37E5FB3F-47A8-47E8-AF35-5592A987A147}</Reference>
+  <DocumentManager>
+    <Document>
+      <ID>{D7EAC91A-77BA-44D2-8C9B-B029B4D3D34E}</ID>
+      <Paths>1</Paths>
+      <URL>.\Heptane\Heptane.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{D86F305E-B75C-4D5A-9FB4-294385550105}</ID>
+      <Paths>1</Paths>
+      <URL>.\Heptane\Heptane Forcite GeomOpt\Heptane.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{0640BD51-E0E4-4275-9C3E-6164654F6C67}</ID>
+      <Paths>1</Paths>
+      <URL>.\Heptane\Heptane Forcite GeomOpt\SMForcite_Extension_Heptane.xms</URL>
+    </Document>
+    <Document>
+      <ID>{2D2C1EEA-CA89-410E-A024-9F0514E91CDF}</ID>
+      <Paths>1</Paths>
+      <URL>.\Heptane\Heptane Forcite GeomOpt\Heptane Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{008F94C0-3E50-48CF-BBDD-55556AA6BE7C}</ID>
+      <Paths>1</Paths>
+      <URL>.\Heptane\Heptane Forcite GeomOpt\Heptane Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{B17396CF-8F33-4CC8-BDF0-CDA17FAF94F7}</ID>
+      <Paths>1</Paths>
+      <URL>.\Heptane\Heptane Forcite GeomOpt\Heptane.txt</URL>
+    </Document>
+    <Document>
+      <ID>{C6A004E8-5EB6-4C27-B798-35FBD7154B4B}</ID>
+      <Paths>1</Paths>
+      <URL>.\Heptane\Heptane Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{58B01746-D343-4730-AFB0-3F5C1D756686}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\List to find.txt</URL>
+    </Document>
+    <Document>
+      <ID>{FAF4377D-78C4-47BB-9476-4D39EE60E1E6}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\CuO.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{A9E5231D-B363-4532-A85C-757EDF75ABED}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Heptane.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{36611259-85CB-4273-8C74-52693070B563}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{D02CCCC5-6B49-4545-8E8F-A0A50DF12269}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{5C0E9A36-E4EB-4D33-A216-0D428B60A35C}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{0CDFAF15-6770-4DBA-9E45-D87A5C76A5F4}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{1AD38AC5-8F37-4DAE-8BDF-3F18025E7BAF}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{8FA3AEA0-ADD7-47C9-A749-3F3D7B979237}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{EA009BA3-1FC2-4F5F-BDF7-3EA1DB27C9F8}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\90 Deg\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{E37D8F92-416D-4C82-B036-A90469DE61F9}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{F4E02D73-2B66-42BF-B82D-FABC36751B65}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{10F50C15-FDEB-49AB-AD9F-7B054C54549E}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{92951803-3601-4BB8-8517-63DB375830F9}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\90 Deg\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{DED7F01C-CCDD-4E2C-8407-BBB47146F697}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{E860B440-F8D5-4747-A05E-92BC8A032F7F}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\180 Deg\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{06306A72-1C88-41B6-87E9-CC166E21E844}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{94FB11C4-7A3E-4278-85F0-B25AEBC7E747}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{75D38FDC-1850-4E53-BCA9-15A991600D77}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\180 Deg\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{AE1C54E3-889B-4CE0-8154-DAC96873C361}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{2A915CAE-0A50-43F5-86F4-9CD6699228AC}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{B5B824D6-2998-4DA4-B52E-A635D1501E5E}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\180 Deg\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{106B4D1A-816C-4557-87AE-A9657E8B315B}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{BB2851B4-68D1-41CA-9181-EBE52543E03E}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\90 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{B4751B9D-5E27-4A4A-B6C8-EA57B6151F09}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\90 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 2x2 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{F6A44854-8AE3-4F38-B91F-8DFA30D9A88F}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{79685D08-1A9B-4B01-A646-C9F436EFC882}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 2x2 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{F85CF4C0-85F7-4D04-AF61-AB3402C5D81D}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\90 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{1D74569F-2961-406A-AE52-295102B857D0}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\90 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\CuO (0 0 1) 2x2 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{58CCCB0C-82C6-4E70-9E9E-A789FFEBEDB4}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\90 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\CuO (0 0 1) 2x2 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{79B9B6D9-B10D-4A3D-BC57-0BAB436CB5C2}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{5F45B1AD-8A1C-4CD6-9CDA-25F4DBD4970F}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\CuO (0 0 1) 2x2 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{24CDE8CB-62FC-4165-A35D-5963CE4BCF15}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\90 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\CuO (0 0 1) 2x2 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{524BBA33-6C46-4F8F-BF9B-5CDA2DE2C563}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\CuO (0 0 1) 2x2 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{F54459D9-2CE6-49EE-8A22-67E9A4B6BD65}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\CuO (0 0 1) 2x2 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{BA08F580-3D88-4181-A482-C317EF2305A8}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\90 Deg\mol\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{AA90D0FC-7AF5-4DCF-B7C0-05BEE3064D49}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\mol\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{EBD08B32-08A4-48B4-A70F-E49D7E4A6113}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\90 Deg\mol\CuO (0 0 1) 2x2 Deg Forcite Energy\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{9954EE02-6B46-4DC3-93C3-088BAB978873}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\90 Deg\mol\CuO (0 0 1) 2x2 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 2x2 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{F612BF26-57E6-4969-ABBE-FD08C56B0064}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\mol\CuO (0 0 1) 2x2 Deg Forcite Energy\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{EF29832B-B399-4E6F-913F-7C16272F79B0}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\mol\CuO (0 0 1) 2x2 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 2x2 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{2CA9C921-90B4-4212-8BCF-6D9EE8D8A286}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\90 Deg\mol\CuO (0 0 1) 2x2 Deg Forcite Energy\CuO (0 0 1) 2x2 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{5C50CDB1-D5FE-4389-A360-15D7EB8461C6}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\mol\CuO (0 0 1) 2x2 Deg Forcite Energy\CuO (0 0 1) 2x2 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{E843799E-5DD2-416B-A368-D693933A1925}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{F7921AFE-CFFD-4706-9B0B-3BFEA017E00A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 3x3 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{F37735AC-0FC0-4851-8774-D5477FF2CD59}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{13889816-6881-40A9-851E-8B3F82683428}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 3x3 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{7D2A0FB7-4640-4ADE-8091-A98680B27B19}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\90 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{6A4D7BC5-481E-4509-B36F-CAB1F5CAD38D}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\90 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 3x3 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{6FC39606-208D-48E4-8653-357A86A05AC9}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\90 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{89F3082F-DA94-4C23-BF12-525982F51D99}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\90 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\CuO (0 0 1) 3x3 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{06F641F4-1BD4-408E-9124-D83F7CCA7849}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{A38B74BB-D8DB-483B-8ED7-875BA9C192C0}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{A4B521D6-E872-49FA-A1E2-58B982B0C257}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\CuO (0 0 1) 3x3 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{3D335645-914F-4571-ABC6-8702F04B721F}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\CuO (0 0 1) 3x3 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{96069F4B-14E5-4527-AF90-48347D898505}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\CuO (0 0 1) 3x3 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{5910AB2F-3F38-43E5-BB8C-6A3AF6C53395}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\CuO (0 0 1) 3x3 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{E002FB77-B657-4DEA-833E-1FBC5F9078C8}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\90 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\CuO (0 0 1) 3x3 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{8A87FB28-D43C-47D1-BD70-61ADE5BC18C2}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\CuO (0 0 1) 3x3 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{BE406A01-F34E-4412-9E23-F7AE05348858}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\CuO (0 0 1) 3x3 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{87C9BAAA-3FCB-4475-BE50-5AC23DADA13A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\90 Deg\CuO (0 0 1) 3x3 Deg Forcite GeomOpt\CuO (0 0 1) 3x3 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{70D240BE-F1E7-4C51-B3D8-D60D9BF8F632}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\mol\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{B3A06C88-4F8E-4168-ADBC-FEC61A6A02E1}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\mol\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{367AC7B7-3BFD-49C3-8971-D48871001EFD}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\90 Deg\mol\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{B15EDB4C-CE18-4462-B195-5C636EEEA27B}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\mol\CuO (0 0 1) 3x3 Deg Forcite Energy\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{FAF07FCF-BA78-4C5C-95A1-04DC54D7D8E1}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\mol\CuO (0 0 1) 3x3 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 3x3 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{74A22CE9-41BF-4843-AB72-D8655EB6766B}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\90 Deg\mol\CuO (0 0 1) 3x3 Deg Forcite Energy\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{805C09C2-F455-423E-A005-B9C17E79A20D}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\90 Deg\mol\CuO (0 0 1) 3x3 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 3x3 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{D3FCF236-5579-4103-8098-99643EA0299D}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\mol\CuO (0 0 1) 3x3 Deg Forcite Energy\CuO (0 0 1) 3x3 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{E06E8149-1A0C-4777-8318-6CB61A72B0BA}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\90 Deg\mol\CuO (0 0 1) 3x3 Deg Forcite Energy\CuO (0 0 1) 3x3 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{5C755B14-14F7-44D0-86E7-B29DBFEFF843}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\mol\CuO (0 0 1) 3x3 Deg Forcite Energy\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{1FD4FC6F-F488-41E7-8A63-59970B2B09C1}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\mol\CuO (0 0 1) 3x3 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 3x3 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{3849B969-54C7-4247-9858-F6BF83C0031C}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\mol\CuO (0 0 1) 3x3 Deg Forcite Energy\CuO (0 0 1) 3x3 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{BE220D33-3E30-4ADA-8FD8-3366BD004BBA}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{ABF93A60-265B-48FC-8FEF-2F098EDB3F6B}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{6D29F6F9-A5D2-4342-8115-A8A30A43875E}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\180 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{4A0DD990-F47E-4AD2-9096-3954F980C2C4}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\180 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{B5275CB0-85E2-444B-8E71-0FEB038437E7}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{62C6847F-5C11-40CF-994C-4C7B1F5B102F}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{5CA9BC8F-E1A2-4315-BBE3-EDE0641131CE}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{E8A4CBA9-A6DE-4EE5-8830-CC672F2961B7}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{33D3FD96-2900-4D88-B1C3-E304FCFFC443}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{CE2DE747-6D5D-407A-84C4-FF922D319949}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\180 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{CFEAE67B-2B74-4C71-B465-A804A0BD0ADB}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\180 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{DB09A83D-A88E-44F8-A3D1-FBD278294067}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\180 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{2CF48BED-9ED6-4238-809D-9CB01398156B}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{07DDC5B4-C9BE-45D2-8E80-5ECFF7B98C37}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{46913BF4-1B42-4CAC-8BD0-2BFCB75F3FEC}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{732B3954-A421-4179-89CB-49A41D632EE4}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{673D686B-E5B2-4A80-A991-1D9B1E5AAC9A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\180 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{EDFC5724-36F0-41CD-B118-147BF324922A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{32C257EA-66C0-4978-A86B-4A8D2E08909A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\mol\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{B951AE73-F8B7-4858-AD26-619BA867F527}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\180 Deg\mol\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{CA8B0735-2BC6-4735-86D6-835245EA62CF}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\mol\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{6C64F756-F038-40FA-AAAB-08BC2646E096}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{F547BF3C-273E-43CA-B3FC-312EB6E43DEC}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{7CC3BEC9-3D1A-4E5B-A48A-4B96FECEF15C}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\180 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{FAFCAA24-338F-40FD-9F0E-6D759B6A354F}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\180 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{08D4A41A-AE42-4E83-9A63-74178B36FA01}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{CC7B308E-EE53-4F4C-BAB4-59A7BB933578}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{1EFF25B4-BE86-437D-858D-7D75205DDD01}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{509B532D-1F37-45E1-A435-2D3D134CDF24}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\180 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{7C1C59BD-8FEE-458D-8477-0FF51DE7D926}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{7F6AAF8C-6886-44A5-83E8-0EB92C8ADAFF}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{062D07CD-21B0-4FC8-B5FB-194F7BFEA775}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 5x5 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{AFF188E9-329A-4C8A-A5E1-32E2030BDBB6}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\180 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{2CAC5673-AD3A-4DDA-AF32-D595890FDE50}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\180 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 5x5 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{BC67A4AE-C176-4D8F-AA35-C584062DEE79}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{70B4DAEA-590A-4847-88A7-8B37CB3CB9F1}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 5x5 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{BF9D615E-DC18-4C20-9FC5-99A6880BFA48}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{CBB1CE15-1946-4F07-BF73-2BEB7617B29A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\CuO (0 0 1) 5x5 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{1D5F0FD7-0146-4AD2-A5BB-7C4D4E343759}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\CuO (0 0 1) 5x5 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{BF580E48-42C4-4504-B1BC-1758196CBCE3}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\CuO (0 0 1) 5x5 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{10C16C7C-6A8B-4D41-B93A-7BF4CAEC81C6}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\180 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{EE9230F5-517D-45E4-ABC7-9667381775B1}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\180 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\CuO (0 0 1) 5x5 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{6506649B-0EF5-4110-A117-6CCB41CEF3D2}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\180 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\CuO (0 0 1) 5x5 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{82673CAA-04C5-4369-AC9E-0A8B3C58406D}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{61151BB5-4C91-4F4A-B343-B6643615F6DE}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\CuO (0 0 1) 5x5 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{6FCBBC66-13A0-4892-AA83-E2F0FC14F32A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\CuO (0 0 1) 5x5 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{751FDA46-8F09-40BD-A46A-6949837AC8CA}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\CuO (0 0 1) 5x5 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{CE2337D3-D57C-479C-BC81-6E220AA40C40}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\180 Deg\CuO (0 0 1) 5x5 Deg Forcite GeomOpt\CuO (0 0 1) 5x5 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{19FA3145-4C8A-45C8-BE6E-AC7F86544D1E}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\mol\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{175585C3-1C81-4A16-9776-C543E3D8C96A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\180 Deg\mol\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{73AAA78D-01B5-4024-A5E4-F57989E77BD8}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\mol\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{07B3CED3-90D9-461A-8D59-DD4D5B9DD992}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\mol\CuO (0 0 1) 5x5 Deg Forcite Energy\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{2FF65566-DC29-4635-B1B0-EAAF72ED09C1}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\mol\CuO (0 0 1) 5x5 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 5x5 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{F33C8185-1085-4B1C-8AF5-BFA83E34EA99}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\180 Deg\mol\CuO (0 0 1) 5x5 Deg Forcite Energy\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{624DD4F4-A0CB-455E-924D-477D32B68EED}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\180 Deg\mol\CuO (0 0 1) 5x5 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 5x5 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{95E6363A-FB82-43A5-AD77-5AB3843CD6EA}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\mol\CuO (0 0 1) 5x5 Deg Forcite Energy\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{28D31441-7533-460C-9EA0-E6D2AED5F316}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\mol\CuO (0 0 1) 5x5 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 5x5 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{8A946444-BA7C-4733-BCE1-93F0E2F9AE37}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\mol\CuO (0 0 1) 5x5 Deg Forcite Energy\CuO (0 0 1) 5x5 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{4DC9B911-5CD2-497B-B6B9-68AB31CDE012}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\180 Deg\mol\CuO (0 0 1) 5x5 Deg Forcite Energy\CuO (0 0 1) 5x5 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{FD754D7C-D5D1-4C82-BDD6-B1DB4F82D1BD}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\mol\CuO (0 0 1) 5x5 Deg Forcite Energy\CuO (0 0 1) 5x5 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{7452FB00-9BBF-4FCA-B767-E06F20F21026}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{EA892CC9-9D1A-4C05-B116-C8A9FA32F295}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 6x6 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{0513B640-EA35-4E5D-BF94-3B3D534C3E15}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\180 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{F9870FD4-E609-4E77-8C6D-59D839E68986}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\180 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 6x6 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{9F0FF332-0D1D-41DA-B8ED-C34BE800B89F}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{0D6526CA-02A6-4D71-B0C8-DECEF56C7B88}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 6x6 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{0A20C416-DAB4-4F91-90DC-C42B9235106C}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{9E719550-D21F-47F3-B1F8-51A499E74C8D}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\CuO (0 0 1) 6x6 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{9A0CE9CB-CCCF-4D8D-AB4B-C8D364F93399}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\CuO (0 0 1) 6x6 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{19C0B77E-17B8-40CC-8218-47B53EC41291}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{A51D8120-4D51-4B79-B386-939CEFF802BE}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\180 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{FBBBC3DF-81BC-4B60-8343-B8F30E1CD4B6}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\180 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\CuO (0 0 1) 6x6 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{F893BBB2-D7F2-4998-9574-F04693C68C05}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\CuO (0 0 1) 6x6 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{8F45C942-CFD1-4CE6-B5F0-597AD0F625AC}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\180 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\CuO (0 0 1) 6x6 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{432D9E4B-C959-40F9-AAD8-F7F64C4F0585}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\CuO (0 0 1) 6x6 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{24302E92-E081-44F5-AE8A-81722BD355D9}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\CuO (0 0 1) 6x6 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{90A3D143-5E57-41E3-9805-5904E7E22E40}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\180 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\CuO (0 0 1) 6x6 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{17C9F1A1-CC3F-474C-A6DA-70E06DD9F8E4}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\CuO (0 0 1) 6x6 Deg Forcite GeomOpt\CuO (0 0 1) 6x6 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{C96AA834-D601-4E28-B236-9943802B03AB}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\mol\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{2E899588-69E5-48D9-A103-C4E2AD342ADA}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\180 Deg\mol\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{4F8A788A-52A3-49A7-8681-D392348E6A39}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\mol\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{7359E2DB-10CF-4B41-B0FC-7430A7DC09BB}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\mol\CuO (0 0 1) 6x6 Deg Forcite Energy\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{A6C20887-CD08-4304-802B-C20B2B80A7E7}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\mol\CuO (0 0 1) 6x6 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 6x6 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{29243C05-3795-4731-8E9C-A12AD08D1E74}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\180 Deg\mol\CuO (0 0 1) 6x6 Deg Forcite Energy\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{7CA067FF-274C-4630-9385-4CCE4F52C7F2}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\180 Deg\mol\CuO (0 0 1) 6x6 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 6x6 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{688BBC1A-DB0D-4916-839F-7B300F6D9944}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\mol\CuO (0 0 1) 6x6 Deg Forcite Energy\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{20724E90-FA35-4B75-BF66-01831F9646D3}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\mol\CuO (0 0 1) 6x6 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 6x6 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{93021663-D4F5-40BC-A3E5-168983BE34DE}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\mol\CuO (0 0 1) 6x6 Deg Forcite Energy\CuO (0 0 1) 6x6 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{C3A42A58-BBD4-4885-AC6E-F33AEF70FE8F}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\180 Deg\mol\CuO (0 0 1) 6x6 Deg Forcite Energy\CuO (0 0 1) 6x6 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{FA5377AC-D87E-4450-9F71-B645587630F0}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\mol\CuO (0 0 1) 6x6 Deg Forcite Energy\CuO (0 0 1) 6x6 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{5B9D6695-ECD4-46F7-962F-DD170BD43B26}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{7B854957-8750-4D96-94F1-9EF89F3DD0A1}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{9B6F5862-5494-4449-ACC7-B49F5C51F5FC}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{C9E7C3B5-39E6-4CB8-BB93-4895950D3C82}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{53388381-D2C1-47BA-B856-A60BF79A9F05}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{56846410-51DE-4D12-B238-43DC19A639A2}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{07420A5D-78F5-4A15-B11C-3868D9831922}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{1DF29EB3-AC20-4E27-A55A-B4AAD8932B15}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{4A6FF587-3F7F-4B5A-92DB-670FC5959C46}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{30A5B79F-C14E-4FE4-8A9B-45F23805527C}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{AC684091-D7AB-4092-80CC-65C1184E04FE}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\mol\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{EDA0B205-C503-4355-8ADA-52BFA3E16D85}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\180 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{39797CD6-E997-4531-A577-17036522F05B}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\180 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{D137753E-A9E0-4C32-B291-903AC4375C25}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\180 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{E12C3F34-0D60-47FE-92F5-96535551C5F3}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\180 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{11744247-F301-4A79-B74F-DEB023648025}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\180 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{258A94B1-8348-432F-8EB1-D14376E667EC}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\180 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{A8BC673B-8CDF-4498-BFAB-990ADC727A11}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\180 Deg\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{3755620A-E7F9-4007-87CD-BB0A7CABD065}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\180 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{A095E720-5C80-43BC-8374-41F5D5CCB4DA}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\180 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{56CEAA0F-CE29-4BB7-B6AB-CCCECF922998}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\180 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{2F65D309-61DC-4BD3-B293-5F0C30E42A78}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\180 Deg\mol\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{C4F98EE3-3CDC-4124-8080-9B0959ADD48D}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\90 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{43B2AD2D-A607-4D0F-A7A6-199269C508C0}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\90 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{35EF17FF-6C28-45B1-A499-DDFF31B8AD49}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\90 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{5D723A6E-BDAA-440A-A364-59783B5F7142}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\90 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{62686246-5B30-4653-8BE5-4528A3B852A2}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\90 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{4D4CF93A-6C76-453E-B515-E650EA3FFD41}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\90 Deg\CuO (0 0 1) 4x4 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{7040727D-EB18-4FF4-9B55-DE887BFC3D7B}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\90 Deg\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{FB2A2B4F-8A79-4DE2-898A-A37316249316}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\90 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{A0DA4BB0-4D91-4D94-A954-71A6F67A921A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\90 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{A6FBCCE9-AD8D-4F39-850A-47FF121FD6C3}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\90 Deg\mol\CuO (0 0 1) 4x4 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{7C440D67-3F05-424C-9665-055224EE5D1A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\90 Deg\mol\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{D051418B-4842-4585-8D6B-98DD7BF72A90}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\mol unopt\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{2EA80E8A-7994-47F4-B133-BBD075EC5CC1}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\mol unopt\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{F50D9797-2EAA-4563-BCB2-2514F7934FA7}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\mol unopt\CuO (0 0 1) 4x4 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{4066D0F5-CD88-4C60-A8AE-0002079A81DA}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\4x4 energy calc\0 Deg\mol unopt\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{D8AA0EE5-5718-43A5-838B-58501FF73DBC}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\mol unopt\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{3C726BC6-D50E-4904-A9FA-D551190D9F93}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\90 Deg\mol unopt\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{4C951B44-7AD7-4F2A-BE0E-99AEAADDE305}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\mol unopt\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{85C15C16-8CEA-4D2C-BF96-E1CB421A5928}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\mol unopt\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{3B6A1348-8446-41BA-9F9E-75D1B4C82163}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\90 Deg\mol unopt\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{5E435ED8-B6AA-4DCE-B349-87003D618A68}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\mol unopt\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{FD13A084-9138-4329-8E7C-A878502F845B}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\180 Deg\mol unopt\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{473C3CFF-47D0-47DA-82EC-27CA446B1978}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\mol unopt\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{D8E28EE4-4781-4B96-9904-589108550CE1}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\mol unopt\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{12BCB2F4-9F8C-4583-B7E5-BD1B01850CC5}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\180 Deg\mol unopt\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{A2EFBE31-21E8-4EBF-B632-E34E2C5CFD8D}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\mol unopt\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{767A6274-B168-4749-8586-F6C4944528E8}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\mol unopt\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{F4F48F67-134F-4854-B6C9-1A1205BA4B8F}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\180 Deg\mol unopt\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{F0EB845D-5FA1-4C3D-B106-1E271D613809}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\mol unopt\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{B77D1060-5376-4FDF-A71E-BCEFAC2BB3B2}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\mol unopt\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{8544C9F8-84A7-4A21-A2EC-E0071A849A5A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\mol unopt\CuO (0 0 1) 4x4 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{B1C1F095-CACB-4F06-A50D-DF3357A42EBA}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\0 Deg\mol unopt\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{014349E7-7731-46B9-9065-C8BC522BEEC9}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\mol unopt\CuO (0 0 1) 3x3 Deg Forcite Energy\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{6B51518D-0CEC-4EFA-AE51-C4CEF8657BC3}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\mol unopt\CuO (0 0 1) 3x3 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 3x3 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{E27C84B1-71F5-41CB-9F0A-BF4C54B0E2DE}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\0 Deg\mol unopt\CuO (0 0 1) 3x3 Deg Forcite Energy\CuO (0 0 1) 3x3 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{562D0D74-315E-4E93-BC36-8FD3EC4BB667}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\mol unopt\CuO (0 0 1) 3x3 Deg Forcite Energy\CuO (0 0 1) 3x3 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{D100194E-4DDD-4B60-8C57-B0723E4684E1}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\mol unopt\CuO (0 0 1) 3x3 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 3x3 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{ECFFC378-4AC2-40CB-A5FF-0FD5A2DD8E74}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\3x3\180 Deg\mol unopt\CuO (0 0 1) 3x3 Deg Forcite Energy\CuO (0 0 1) 3x3 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{A52CC662-CE5E-4EAF-A753-4E728B401D12}</ID>
+      <Paths>1</Paths>
+      <URL>.\Heptane\Heptane Forcite Energy\Heptane.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{7F13934F-CA34-401D-85C0-96DE949F6539}</ID>
+      <Paths>1</Paths>
+      <URL>.\Heptane\Heptane Forcite Energy\SMForcite_Extension_Heptane.xms</URL>
+    </Document>
+    <Document>
+      <ID>{BB56A640-D092-45A9-82FA-A8378E58CC8A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Heptane\Heptane Forcite Energy\Heptane.txt</URL>
+    </Document>
+    <Document>
+      <ID>{0A5221B2-A48C-4C4F-9808-7CD80CE62491}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\mol unopt\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{D58B0753-A7A2-4109-9A33-83D07C711002}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{7B229996-DACE-4403-A05B-55D3E8836860}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\SMForcite_Extension_CuO (0 0 1) 2x2 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{2E872FA6-7FE2-4E8C-AD74-914C24D6E30F}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\Status.txt</URL>
+    </Document>
+    <Document>
+      <ID>{0DE7201B-6DCA-48E0-B1BA-2C66550B892A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\CuO (0 0 1) 2x2 Deg Energies.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{74BF4CC8-2136-4A4E-8B11-99A74BC0BD40}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\CuO (0 0 1) 2x2 Deg Convergence.xcd</URL>
+    </Document>
+    <Document>
+      <ID>{A64C013E-6140-4413-9A1E-0B43AE51A2B9}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\CuO (0 0 1) 2x2 Deg Forcite GeomOpt\CuO (0 0 1) 2x2 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{55EDA0EC-6800-459C-B8FD-43995F617856}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\mol\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{6B8B76F4-8EA3-4D34-95DE-2AFDDB12B37F}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\mol\CuO (0 0 1) 2x2 Deg Forcite Energy\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{7717A2E3-DF7A-4804-9152-D7C7410336E7}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\mol\CuO (0 0 1) 2x2 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 2x2 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{00595B7A-17B5-49A3-829A-1AC64AB2E8EC}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\mol\CuO (0 0 1) 2x2 Deg Forcite Energy\CuO (0 0 1) 2x2 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{2DAFAB1A-8D4D-4985-8B30-7E4614DB74F2}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\mol unopt\CuO (0 0 1) 2x2 Deg Forcite Energy\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{3A1620AB-8D28-45BA-B322-A86F03D89C32}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\mol unopt\CuO (0 0 1) 2x2 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 2x2 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{8E809447-40B0-496D-9F2F-88AA76CDF567}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\0 Deg\mol unopt\CuO (0 0 1) 2x2 Deg Forcite Energy\CuO (0 0 1) 2x2 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{1B7CD113-42AA-44BD-891E-0803FB4DDC85}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\mol unopt\CuO (0 0 1) 2x2 Deg Forcite Energy\CuO (0 0 1) 2x2 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{A813BCF1-FD60-4249-8F89-14A59D496CEB}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\mol unopt\CuO (0 0 1) 2x2 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 2x2 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{E22766B0-668A-4925-8890-FE0A9EA97B80}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\2x2\180 Deg\mol unopt\CuO (0 0 1) 2x2 Deg Forcite Energy\CuO (0 0 1) 2x2 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{344C39AB-0E67-49CD-BF45-06CB969284C2}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\mol unopt\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{877C8FBE-4D82-43E4-8593-4D61B400C7E8}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\mol unopt\CuO (0 0 1) 4x4 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 4x4 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{4F7151B6-38B2-4421-89F1-9104C3DA9054}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\4x4\90 Deg\mol unopt\CuO (0 0 1) 4x4 Deg Forcite Energy\CuO (0 0 1) 4x4 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{D077589E-4096-4835-8DCD-510D198BB134}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\mol unopt\CuO (0 0 1) 5x5 Deg Forcite Energy\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{8FFF507F-069A-433A-818F-C518E26A898A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\mol unopt\CuO (0 0 1) 5x5 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 5x5 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{3B9C8E54-2E39-4F9B-BE6C-E7E6D774A02A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\mol unopt\CuO (0 0 1) 5x5 Deg Forcite Energy\CuO (0 0 1) 5x5 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{BB77405F-1440-453D-8865-C8556179A118}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\mol unopt\CuO (0 0 1) 5x5 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 5x5 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{05BDFDED-E0A7-4278-822B-764C76EE4DCC}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\0 Deg\mol unopt\CuO (0 0 1) 5x5 Deg Forcite Energy\CuO (0 0 1) 5x5 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{F7BD18CA-97EB-426E-BB88-614E529ACF8E}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\5x5\90 Deg\mol unopt\CuO (0 0 1) 5x5 Deg Forcite Energy\CuO (0 0 1) 5x5 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{B8DC2487-9357-4AE0-B87E-E867A995175E}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\mol unopt\CuO (0 0 1) 6x6 Deg Forcite Energy\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{82ABE321-D384-45B7-85DB-363DD56B02E7}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\mol unopt\CuO (0 0 1) 6x6 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 6x6 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{DD1BE1C8-FD9A-4AED-A498-260B2E62C474}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\mol unopt\CuO (0 0 1) 6x6 Deg Forcite Energy\CuO (0 0 1) 6x6 Deg.xsd</URL>
+    </Document>
+    <Document>
+      <ID>{9ABF0216-4689-4DFF-AC30-224BD1696D1A}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\mol unopt\CuO (0 0 1) 6x6 Deg Forcite Energy\SMForcite_Extension_CuO (0 0 1) 6x6 Deg.xms</URL>
+    </Document>
+    <Document>
+      <ID>{674BE8C4-42E5-424F-99CB-0C2315A4CEB6}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\0 Deg\mol unopt\CuO (0 0 1) 6x6 Deg Forcite Energy\CuO (0 0 1) 6x6 Deg.txt</URL>
+    </Document>
+    <Document>
+      <ID>{0E0875BA-70AF-44A9-A4A9-D3B3DC8E0173}</ID>
+      <Paths>1</Paths>
+      <URL>.\Project_1_CuO_Hep\Slab_Opt\6x6\90 Deg\mol unopt\CuO (0 0 1) 6x6 Deg Forcite Energy\CuO (0 0 1) 6x6 Deg.txt</URL>
+    </Document>
+  </DocumentManager>
+  <ViewRegistry>
+  </ViewRegistry>
+  <DocumentEventManager>
+  </DocumentEventManager>
+</Project>
