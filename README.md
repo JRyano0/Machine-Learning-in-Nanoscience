@@ -48,8 +48,7 @@ Below are some key projects featured in this repository; each folder represents 
 ---
 
 ## 📖 Publication in Review
-- I currently have a **publication in review** based on one of the projects above. I’m excited to share it publicly once accepted—please reach out if interested in seeing a draft!
-
+- I currently have a **publication in review** based on the project above; PCA Analysis of XRD Data
 ---
 
 ##  🛠 Skills & Tools
