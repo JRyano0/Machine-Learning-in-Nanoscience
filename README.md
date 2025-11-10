@@ -1,7 +1,7 @@
 # Machine Learning in Nanoscience Portfolio
 
 ##  About Me
-👋 Hi! I’m a Chemical Nano-Engineering Master’s student with a B.A. in Nanoscience, with significant interest in using **unsupervised machine learning** to accelerate scientific discoveries in nanoscience. My work focuses on Python-based algorithm development using **NumPy** and **PyTorch** to analyse and interpret spectroscopic data and quantum behaviour. 
+👋 Hi! I’m a Chemical Nano-Engineering Master’s student with a B.A. in Nanoscience, with significant interest in using **machine learning** to accelerate scientific discoveries in nanoscience. 
 
 ---
 
